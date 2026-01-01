@@ -1,0 +1,7 @@
+{
+  "name": "GymGlow AI",
+  "description": "Transform your portrait into a post-workout version of yourself with realistic sweat, pump, and gym aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
